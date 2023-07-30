@@ -36,7 +36,7 @@ pip install tensorflow keras numpy matplotlib
 ```
 
 ## Network Architecture
-![alt text](https://github.com/TejasKalsait/Digit_Generator_GAN/blob/main/gannetwork.JPG?raw=true)
+![alt text](https://github.com/TejasKalsait/Digit_Generator_GAN/blob/481cd6a83f8f96984cc821992ffced797de546aa/gan%20network.JPG?raw=true)
 
 ## Usage
 
